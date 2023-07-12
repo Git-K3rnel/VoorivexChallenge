@@ -211,9 +211,11 @@ echo $decdata;
 
 ?>
 ```
+```
 2.You will recieve the password : h4rdP@ssworD
 3.Send request to challenge.php and you will get "pnq2K_s2On" in the Location header
 4.Go to https://z.voorivex.academy/pnq2K_s2On
+```
 
 ### Level 33
 ```
