@@ -1,4 +1,4 @@
-# VoorivexChallenge
+# VoorivexChallenge - Zodd
 This is a writeup about all levels in voorivex challenge (Berserk vs Zodd)
 
 ### Level 1
